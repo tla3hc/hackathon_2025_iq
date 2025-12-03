@@ -1,0 +1,1986 @@
+Từ 4 đến 6 đội chơi thi với nhau
+Trên cùng một cái bản đồ
+Anh em cẩn thận nữa không
+Lát nữa đi theo thì Huy sẽ giải thích thêm
+Cái setup nó nhìn như thế nào
+Mọi người sẽ nhận được cái gì nha
+Anh em từ từ đã panic
+Cơ bản là ban tổ chức sẽ provide
+Cái infrastructure
+Ở trong đó sẽ có cái server để trả
+Cho mọi người là cái bản đồ nó như thế nào
+Mọi người chỉ việc là có cái player machine
+Mọi người thấy cái màu xanh player machine không
+Tất cả mọi thứ mình thi
+Trên cái player machine đó
+Tức là mình đem cái laptop của mình tới mình thi ra
+Cái giải thuật tìm đường của mình
+Mình sẽ viết ở trên cái player machine đó
+Và cái player machine của mình
+Nó sẽ tương tác với cái playground
+Nó sẽ lấy vị trí của cái xe đang ở đâu
+Và nó ra lệnh là cái xe phải
+Phải đi theo cái route nào
+Tức là lấy cái bản đồ về
+Xong rồi lấy coi thử là cái vị trí
+Bóc hàng và vị trí thả hàng
+Là chỗ nào
+Có 10 cái bucket giống như vậy
+Ở trên cái bản đồ đó
+Xong rồi mình làm ra một cái thuật toán
+Là coi thử là pick cái quả hàng nào
+Mà nó lấy được nhiều tiền nhất
+Mà đi qua đường ngắn nhất
+Để mình lấy được tiền lời
+Rồi sau đó mình ra được cái route của mình
+Mình submit lên lại
+Lại trên folder là sao
+Trên cái server là sao
+Ok chưa
+Rồi trên server đó
+Thì ban tổ chức sẽ cho cái xe đó chạy
+Chỗ đẹp
+Ok chưa
+Idea là như vậy
+Đúng rồi
+Nãy thì có cái 3 cái game mà đúng không
+Đúng rồi đúng rồi
+Tất cả những cái problem statement đó
+Nó sẽ nằm trong cái đề bài này
+Ok không
+Chính xác chính xác
+Tức là không cái
+Tức là mỗi một đội sẽ có mất cái bản đồ riêng để chạy
+Hay là cùng chạy trên một bản đồ
+Tức là ví dụ như là
+Cùng chạy trên một bản đồ
+Thế nó sẽ xảy ra cường hợp
+Một xe một team mà đi chặn đường
+Cái xe khác
+Thì nó sẽ như thế này
+Chưa tính tới chuyện là chặn đường nha
+Bởi vì lỡ mà
+Hai team nó đường lại giống nhau
+Rồi chặn nhau
+Thì nó cũng
+Đó
+Rồi anh em từ từ đã
+Để cho nó qua cái overview đã
+Xong rồi vô detail nha mọi người
+Ok
+Thì cái mà mọi người nhận được
+Trước khi cái ngày
+Cái ngày mà mình chơi Elimination Round
+Thì mọi người sẽ nhận được một cái file
+Một cái file Excel
+Trong đó sẽ describe ra là cái challenge là cái gì
+Require mình
+Từng step từng step
+Mọi người phải thi với nhau là như thế nào
+Ok không
+Thì lát nữa sẽ sau nhanh cho mọi người coi cái đó
+Ok
+Sau cái meeting này
+Thì có lẽ trong tuần này
+Share luôn cho mọi người luôn
+Để mọi người đọc trước cho kỹ
+Coi thử có cái question gì
+Thì chat thẳng lên trên cái nhóm chat của mình
+Mình hỏi cho nó detail
+Ok không
+Hôm nay mình đưa trước
+Overview
+Đi vào detail
+Thì sẽ đi thêm một chút vào detail
+Xong rồi cứ gửi document ra
+Để anh em coi
+Được chưa
+Rồi để chị nói hết nè nha
+Để chị nói hết nè
+Mọi người hỏi nha
+Ok không
+Thì cái đầu tiên là mọi người tưởng tượng
+Cái deliverable của mình là gì
+Là một cái algorithm
+Một cái file
+Một cái file
+Một cái sụp
+Algorithm gì đó
+Mà chạy trên cái máy của mình
+Cái máy của mình sẽ tương tác
+Với lại cái playground của ban tổ chức
+Qua RESTful API gì đó
+Cái kiểu
+Để tương tác với nhau
+Ok
+Tìm coi thử là
+Cái package nó ở đâu
+Và cái deliverable nó ở đâu
+Cái delivery destination nó ở đâu
+Xong rồi tìm cái đường đi ngắn nhất đó
+Mà nó hiệu quả nhất
+Về mặt năng lượng
+Bây giờ vậy
+Để lấy được nhiều tiền
+Ok không
+Mình sẽ rải toàn bộ
+Trên cái bản đồ đó
+Có thể là 10 hoặc là 20
+Cái package gì đó
+Mỗi cái package nó sẽ có cái giá trị
+1 đô, 2 đô, 3 đô gì đó
+Ok không
+Và cái khoảng cách
+Tới cái destination nó sẽ khác nha
+Thì cái giải thuật của mình
+Nó sẽ cần phải có
+Đồ đồ
+Đủ cái thông minh
+Để có thể chọn cái package nào
+Để mình đi tới
+Cho nó hợp lý
+Ok không
+Và mình tốn ít năng lượng
+Mà mình lấy được nhiều tiền nhất
+Nếu là chỗ này
+Mình chỉ lấy được 1 package thôi
+Là trên cái đường đi
+Có cái nào mình lấy cái đó
+Maximum 3 package đúng không Quy?
+Đúng rồi
+Maximum 3 package
+Lát nữa đi theo nha
+Lát nữa đi theo mọi người cho nó nha
+Để cái finish cái này
+Cái đặt
+Thì
+Thì
+Sau cái đặt
+Thì sau cái đặt
+Sau khi mà
+Sau khi mà
+Dọn sạch cái bản đồ đó
+10 hay 20 package đó
+Ok không
+Thì mình
+Mình sẽ tính tiền
+Có thể anh nào lấy được nhiều tiền nhất
+Được chưa
+Cái tiền đó chỉ đơn giản là
+Cái tiền mà delivery
+Trừ cho cái tiền cost
+Về mặt nguyên liệu
+Ok
+Rồi
+Không tính thời gian đúng không
+Không tính thời gian
+Ai submit trước
+Hoặc là như thế nào đúng không
+Mình sẽ thi với nhau á mọi người
+Vậy là
+Vậy là
+Nói chung là
+Hết giờ thì sẽ tính
+Còn lấy xong trước
+Thì cũng không
+Không cần kia
+Đúng rồi
+Đúng rồi
+Đúng rồi
+Cảm ơn anh
+Rồi ok
+Rồi
+Cảm ơn câu hỏi bạn nha
+Thì mình bây giờ
+Mình nói tiếp cái phần
+Final round nha mọi người
+Final round thì
+Chắc anh em phải coi
+Có cái
+Có cái xe
+Lúc mà gửi
+Remind
+Cái ở trên
+Cái reminder
+Mà cho
+Cho đăng ký á
+Mọi người nhớ không
+Có ai để ý
+Có cái xe màu vàng
+Đấy không
+Đây
+Nó là này
+Ok không
+Thì
+Cái
+Cái vòng
+Cái vòng final á
+Mình sẽ leverage lên chút xíu
+Đó là
+Mọi người sẽ có
+Một cái xa bàn
+Trên đó có một cái bản đồ thiệt luôn
+Ok
+Tức là mình sẽ
+Ví dụ bố trí
+Một cái xa bàn
+Ở trên đây
+Và giống như là
+Một cái mini city á
+Thì trong đó là
+Mình sẽ có
+Cái bản đồ rộng
+Hoảng tầm cả
+3m x 3m
+Ở trong đó
+Cái
+Cái đường đi
+Nó đơn giản hơn
+Ok
+Đơn giản hơn so với vòng loại
+Ok không
+Nhưng mà cái challenge chính của mọi người là gì
+Dùng cái giải thuật
+Mà ở vòng loại á
+Có thể optimize lên cũng được
+Ok không
+Và cuối cùng á
+Là cái giải thuật đó
+Không phải là
+Submit cái đường đi thôi
+Mà sau khi mà có cái đường đi rồi á
+Phải control một chiếc xe này
+Mỗi team sẽ control một chiếc xe này
+Để bắt đầu đi thi với nhau
+Thì lúc đó sẽ bắt đầu là
+Có cái challenge là
+Nó sẽ đụng nhau
+Giống như bạn nào nãy nói hỏi á
+Ok
+Thì bên 3 tự chức
+Thì phải làm cái gì
+Cái challenge lớn
+Ở đây là gì
+Là cái xe này
+Là một cái xe
+Một cái xe ngu
+Không có bất cứ cảm biến gì hết
+Ok không
+Xe này nó chỉ đơn giản là
+Điều khiển vậy thôi
+Ở trên
+Ở trên nóc của cái xe này
+À
+Thôi em mở cái camera lên
+Cái em chỉa cho mọi người thấy cái xe
+Trên nóc của cái xe
+Nó sẽ có một cái mã
+Nếu như mà ai mà thi
+Hồi năm 2023 rồi á
+Sẽ biết cái này
+Ok không
+Thì cái đơn giản là
+Ban tự chức sẽ bố trí
+Một cái hệ thống định vị trong nhà
+Ok
+Sử dụng camera
+Ok
+Phủ quanh cái bản đồ
+Ok không
+À
+Thì sau đó
+Cái hệ thống định vị đó
+Nó sẽ detect
+Coi thử là cái xe nó đang ở đâu
+Nó đang ở cái hướng nào
+À
+Và host một cái server
+Để mọi người kết nối vô
+Mọi người muốn biết là
+Cái xe của mình đang ở đâu
+Request qua cái server đó
+Được chưa
+Delay sẽ là khoảng tầm
+100 đến 250 microseconds
+Thì dựa trên cái thông tin đó
+Thì anh em phải
+Từ cái route của mình đúng không
+Mình phải điều khiển cái xe
+Sao cho nó đi
+Nó đi trên cái hệ thống
+Trên cái mini city đó
+Và đi tới cái chỗ mà
+Mà có cái cục hàng mà mình muốn bóc
+Ok
+Cái cục hàng của mình muốn bóc
+Nó sẽ không thấy ở trên bản đồ
+Nó là một cái virtual packet nha
+Mình đi tới chỗ đó
+Xong rồi mình send cái request lên
+Trên server của ban tổ chức á
+Nó là em muốn bóc cục hàng số 1
+Ok
+Ban tổ chức thấy
+Check lại coi thử là
+Cái xe nó tới cái chỗ cục hàng số 1 đi chưa
+Thì sẽ confirm cho mọi người là
+À ok bóc được rồi
+Ok
+Được chưa
+Ok
+Tức là
+Tức là mình sẽ điều khiển cái xe
+Qua REST API luôn
+Cái xe sẽ điều khiển
+Trực tiếp từ máy tính của mọi người nha
+Sau khi mà anh em vượt qua được
+Cái vòng loại rồi á
+Thì ban tổ chức sẽ phát xe cho mọi người
+Ok không
+Điều khoai mình của mọi người là gì
+Không được động vô gì
+Trong hạch quen của xe hết
+Ok chưa
+Chỉ được sửa có thôi
+Ok
+Cái phần mà data
+Trên server trả về là
+Hướng và tọa độ
+Hay là camera
+Hay là hành ảnh
+Sẽ trả về giống như là GPS vậy đó
+Kèm theo là cái hướng của cái xe đó như thế nào
+Là đã ra data rồi đúng không
+Đúng rồi
+Bạn có thể nhìn trên cái shadow á
+Mọi người có thấy nè
+Cái
+Sao ta làm sao để qua bên đó ta
+Cái position này
+Như anh em thấy nè đúng không
+Được chưa
+Thì trên cái game coordinator server này
+Sẽ trả về cho mọi người thấy là
+Sẽ cho mọi người cái map này
+Ok không
+Cho mọi người biết là cái mission
+Mọi người phải làm là gì
+Ví dụ như là
+Cái vị trí của mấy cái bucket trên cái bản đồ
+Là ở tọa độ là bao nhiêu
+Ok không
+Và trả cho mọi người biết là
+Cái trạng thái của cái xe như thế nào
+Cái trạng thái nó sẽ bao gồm cái gì
+Tọa độ của cái xe trên bản đồ
+Theo mm
+XI
+Rồi cho
+Cái thứ 2 nữa là
+Cái hướng của cái xe nó đang ở đâu
+90 độ
+120 độ hay là như thế nào
+Ok
+Và nó trả về cho mọi người biết là
+Một cái
+Xung quanh cái xe này là
+Xung quanh cái xe nó đang có obstacle gì
+Cái này là cái magic của ban tổ chức làm ra
+Sẽ có mất
+Nhưng mà cái idea ở đây là
+Dựa trên cái hệ thống vision đó
+Mình sẽ biết được là
+Ban tổ chức sẽ detect được
+Là ở
+Quanh cái xe đó
+Nó đang có obstacle gì
+Và trả về cho mọi người là
+Cái điểm xung quanh
+360 độ xung quanh của mình
+Ở cái distance bao nhiêu là có cái object
+Nó giống như là mô phỏng
+Một cái radar xung quanh cái xe của mọi người đó
+Nhưng mà mọi người sẽ nhận được
+Cái data cuối cùng luôn
+Chứ không có
+Chứ không có cái data cuối cùng luôn
+Chứ không cần phải có cảm biến gì
+Trên cái xe này hết
+Được chưa?
+Nhưng mà message là gì?
+Ráng qua vòng loại đã
+Vô hồn kia sẽ giải thích thêm
+Ok chưa?
+Bạn ơi
+Khi nào thì cái môi trường mô phỏng này
+Là sẽ
+Gửi về các team
+Hoặc là sẽ các team
+Để mẹ team có thể là
+Là xem qua cái environment này
+Xem thử thế nào
+Tức là để adapt thử
+Và lên kế hoạch thử
+À
+Ừ
+Huy sẽ nói tới cái đó nha
+Mấy bạn sẽ lên nói
+Đi theo cho mọi người
+Ở trong cái slide tiếp theo
+Thì tả lời luôn câu hỏi đó luôn là
+Trước cái ngày thi ngày 4
+Ok không?
+Thì sẽ tả về cho mọi người là
+Cái
+Tức là mình sẽ code trong ngày 4
+Mình thi trong ngày 5
+Ok không?
+Thì có thể là ngày 3
+Sẽ share ra cho mọi người là
+Cái server đó như thế nào
+Nếu như mà anh em thấy challenge quá
+Thì share ra sớm hơn chút xíu
+Ok không?
+Nhưng mà gửi ra cho mọi người là
+Sẽ có là cái bộ mô phỏng luôn
+Để mọi người tự
+Tự
+Tự
+Tự
+Bắt đầu develop
+Cái algorithm của mình được rồi
+Tự hot cái server đó
+Trên
+Trên
+Trên cái máy tính của mình luôn
+Ok
+Ok
+Cảm ơn bác
+Anh ơi
+Cái vòng final là tổ chức
+Ở Hồ Chí Minh ạ
+Vòng final ở Hồ Chí Minh
+Thế thì
+Nếu mà có một đội Hà Nội
+Qua thì
+Sẽ như thế nào anh?
+Mấy năm trước là
+Anh sẽ xin
+Debug mình hết
+Để cho đội Hà Nội bay vô
+Vậy
+À ok ạ
+Tức là
+Kinh phí sẽ là do
+Bên
+Debug mình
+Debug mình sponsor
+Cái này để anh
+Anh sẽ sắp xếp
+Mọi người cố gắng
+Qua vòng elimination trước
+Thế chị em cũng
+Cũng hỏi luôn
+Về vòng elimination này
+Tức là về phần
+Mặt môi trường
+Thì sẽ là cài hết
+Trên máy cá nhân đúng không ạ?
+Thì là mình sẽ
+Tự tự kiểm tra
+Cái phần môi trường của mình
+Đúng không ạ?
+Đúng rồi đúng rồi
+Cái máy cá nhân của mình
+Mình sẽ run
+Cái algorithm
+Thế đến hôm thi
+Thì sẽ là dùng
+Tại vì em thấy
+Đang thấy khi là
+Localization server
+Đúng không ạ?
+Thì đến hôm thi
+Sẽ dùng cái server
+Của ban tổ chức
+Đúng không ạ?
+Đúng rồi
+Cái máy cá nhân của mình
+Sẽ tương tác với cái server
+Của ban tổ chức
+Còn trước khi ngày thi
+Thì cái
+Cái server của ban tổ chức
+Sẽ gửi cho mọi người
+Để mọi người test
+Trên cái máy logo của mình
+Đơn giản là chỉ là
+Đổi từ
+IP qua
+Logo hot thôi
+Thế có thời gian
+Để test cái việc
+Kết nối với cả
+Cái server ban tổ chức
+Đúng không ạ?
+Có ạ
+Trước
+Trước
+Trước cái bữa thi
+Thì chắc là mình sẽ dành
+Cho cả
+Cái bữa trung kết
+Ủa bộ lộn
+Cái bữa thi
+Bữa ngày năm
+Thì chắc là mọi người
+Tới sớm cả nửa tiếng
+Về đó mình test
+Để mà coi thử
+Collect được tới server
+Của ban tổ chức đúng không?
+Ừ
+Cảm ơn
+Em cảm ơn
+Nói thêm cho mọi người biết
+Để có cái confidence
+Là
+Cái
+Cái
+Cái
+Ban tổ chức cũng ping
+Cũng thử test
+Coi thử nó có delay hay không
+Giữa Hà Nội
+Của Hồ Chí Minh
+Thì mấy bạn cũng
+Mượn một số cái máy
+Ngoài Hà Nội
+Để ping thử rồi
+Kết quả
+Có vẻ như nhau
+Ok không?
+Cho nên nó cũng không sợ delay lắm đâu
+Tại vì nó cuối cùng
+Nó cũng qua một cái
+Cái server của boss mình thôi
+Ok
+Rồi
+Còn có hỏi gì không
+Mọi người
+Để mình vô trong cái
+Cái detail bên dưới
+Cô đi theo nha
+Cô đi theo nha
+Nhìn mặt nó
+Vậy lâu quá ta
+Ok
+Ok
+Huy giải thích thêm cái này cho mọi người
+Ok
+Thì
+Trước cái bữa ngày thi
+Ngày 4
+Thì ban tổ chức
+Bọn mình sẽ cung cấp cho mọi người
+Ba cái file
+Một cái file đầu tiên
+Một cái file localization server này
+Thì nó sẽ giả lập
+Cái môi trường
+Để mà
+Xe nó chạy
+Cũng như là detect position
+Cái kiểu trên đó
+Và một cái sample code
+Để mà mọi người có thể
+Adapt nhanh hơn
+Là trong cái sample code
+Đã có tất cả
+API rồi
+Từ nhận data
+Cho tới gửi
+Data
+Cho tới
+Gửi
+Cái root lên
+Đầu cái kiểu luôn
+Và cũng có một cái
+Giải thuật
+Không có thông minh lắm
+Để mà tự tìm được luôn
+Là có sẵn cho mọi người
+Dùng cái đó để vừa
+Nhưng mà cơ bản là
+Cái sample code này
+Nó sẽ chạy
+Thì mọi người
+Chỉ cần
+Optimize lại cái phần
+Giải thuật tìm đường đó thôi
+Thì nó sẽ ok
+Và ngoài ra
+Thì bên bọn mình
+Cũng sẽ cho thêm một cái
+Cung cấp thêm một cái
+Gọi là cái bot layer
+Để mà mọi người
+Sau khi mà mọi người đã
+Bếp cái giải thuật của mình
+Thì mọi người có thể
+Sử dụng cái con bot này
+Để mà đấu thử luôn
+Đấu tập luôn
+Ok
+Thì
+Cô có là Python
+Hay là C
+Python
+Mọi thứ đều Python hết
+Ok
+Thì cái
+Thời gian
+Thì đặt
+Cái thời gian
+Để mà mọi người chuẩn bị
+Và nhận
+Và tập trình
+Rồi kết chế là một ngày
+Thì ngày năm mình thi
+Thì sẽ ngày 4
+Buổi sáng đó
+Bạn tổ chức sẽ gửi cho mọi người
+Thì
+Ngoài ra
+Thì bọn mình
+Cũng sẽ gửi luôn
+Cái
+Tất cả cái thư diện cần thiết
+Để mà chạy cái server này
+Thì mọi người chỉ cần
+Lấy về và cài
+Đúng mấy cái thư diện đó
+Thì đảm bảo nó sẽ chạy hết
+Còn nếu như nó không chạy
+À
+Thì con tắt
+Bạn tổ chức
+Cái server
+Cái đó là phần
+Server
+Còn phần client
+Của bên mình
+Thì mình làm cái gì
+Cũng được đúng không
+À
+Đúng rồi bà
+Phần client
+Cái phần
+Cái cục layer machine này này
+Mấy bạn có cái gì cũng được
+À
+Còn cái phần bot
+Với cái phần server
+Là bọn mình đã
+Net
+Đóng gói nó là
+Execution rồi
+À
+Thì thì
+Mấy bạn cũng không có sửa gì được
+À
+Mấy bạn chỉ có sửa
+Cái layer machine này
+Thì bọn mình sẽ
+Rồi vào với cái dạng
+File by time
+Để mà mọi người
+Có thể chỉnh sửa
+Cái sổ code đó
+Ờ
+Cảm ơn
+Ờ
+Ok
+Thì cái
+Như hồi nãy
+Bọn mình có nói
+Thì là cái bữa
+Mà ngày năm
+Thì mọi người sẽ
+Tới sớm một chút xíu
+Đem laptop
+Để mà có thể connect
+Thử với cái server
+Của bàn tổ chức
+Ờ
+Rồi cũng như là
+Sắp xếp cái lực thi
+Rồi các kiểu
+Rồi
+Thì cái
+Để mà đơn giản hơn
+Cho cái
+Cái
+Cái dòng này
+Thì bọn mình sẽ
+Cho tất cả các bucket
+Là cùng điểm với nhau luôn
+Nhưng mà cái địa điểm giao
+Nó sẽ khác nhau
+Cái địa điểm giao
+Nó sẽ là random nha
+Mỗi lần mọi người
+Start cái server lên
+Nó sẽ là random
+À
+Thì tuy là cái bucket
+Nó cùng điểm với nhau
+Nhưng mà sẽ có chỗ
+Rất là gần
+Cũng có cái bucket
+Nó rất là xa
+À
+Nên mọi người sẽ phải
+Chọn cái bucket
+Nó tối ô
+Thì cái phương pháp
+Để mà tính
+Cái đội nào chiến khắng
+Thì đầu tiên
+Mình sẽ tính coi là
+Đội nào giao được nhiều điểm hơn
+Nhiều cái bucket hơn
+Rồi
+Và nếu mà giao được
+Cùng cái bucket đó
+Thì mình sẽ tính
+Tới cái tiêu chí
+Là coi đội nào đi
+Nhắn nhất
+Nếu mà đi nhắn nhất
+Thì cái
+Lượng nhiên liệu tiêu hào
+Nó sẽ thấp hơn
+Anh cùng package
+Tức là cùng số điểm
+Package đúng không ạ
+Tại vì em nhớ
+Anh bảo là mỗi
+Một package
+Sẽ có một số điểm
+Khác nhau đúng không ạ
+Đồng điểm bằng nhau
+Thì sẽ tính
+Đến nhiên liệu đúng không ạ
+Thì
+Tại vì
+Chỉ có một ngày thôi
+Mà nếu mà
+Bọn mình
+Bọn mình thấy
+Nếu mà thêm
+Thêm nhiều tiêu chí quá
+Thì nó sẽ
+Hơi rắc rối á
+Nên bọn mình cho là
+Cùng điểm luôn
+Chỉ là khác
+Cái khoảng cách giao thôi
+Cùng điểm xuất phát
+Cùng điểm xuất phát
+Khác chỗ giao
+Và cùng
+Cái
+Cái số tiền thu được
+Cái số tiền thu được
+Đúng
+Chỉ trí
+Chỉ trí để mà nhận
+Cái package đó
+Sẽ là giống nhau
+Mình có thể tưởng tượng
+Là giống như là
+Mình là
+Mình là
+Copy
+Copy
+Express này đúng không
+Nó sẽ có một cái húp đúng không
+Có một húp
+Chạy tới cái húp đó thôi
+Lấy là giao
+Random nhiệt độ
+Thì như
+Thì một lần
+Xe của mấy bạn
+Sẽ nhận được
+Tối đa là 3 package
+Thì mấy bạn không chỉ tính
+Là cái
+Cái một
+Cái chỗ
+Lấy cái package nào gần nhất
+Mà phải tính coi là
+Nên lấy cái package nào
+Mà sau khi nó giao
+Cái package đầu tiên
+Thì mình sẽ giao
+Cái package thứ hai đó
+Nó ngắn nhất
+Thì mình
+Mình sẽ phải xử lý
+Những cái công việc như vậy
+Nhưng mà nếu
+Thi đấu
+Thì
+Một người mà đã lấy
+Một cái package rồi
+Thì cái package đấy
+Thế biến mất à
+Hay là như nào
+Đúng rồi bạn
+Thì bởi vì
+Đòi nào mà request trước
+Thì đòi nó sẽ lấy
+Cái package đó chứ
+Thế thì sau đấy
+Thì sẽ có
+Cái package khác
+Nó hiện lên không
+Hay là nó sẽ biến mất
+Số lượng package
+Là
+Là cố định rồi thôi
+Nó chỉ chỉ giảm xuống không rồi
+Số lượng package
+Là cố định á
+Hiện tại bọn mình đang để
+Là tê
+40 lần á
+Tê 40 cái package ra
+Thì
+Mọi người
+Nhưng mà
+Thì bắt đầu nó lâu cho
+Thì
+Khả năng mà
+Nhiều độ
+Mà chọn một package
+Nhiều lắm
+Dạ đúng rồi
+Thì
+Thì
+Cái
+Cái tốc độ tính toán
+Của mọi người
+Đấy mà
+Tính ra được
+Rồi sau đó
+Dịch cái package đó trước
+Giống như
+Wrap
+Nó nổ đơn
+Nên là bấm nhận trước
+Vậy đó
+Mình không giao
+Hai cái
+Cái xe mình đang chóng
+Một cái
+Mình nhận tiếp
+Mình mới đi giao tiếp được
+Hay là phải
+Phải giao hết
+Ba cái
+Mình mới đi
+Lấy tiếp
+Ba cái
+Thì hiện tại
+Thì
+Sau khi mà bạn đã giao
+Hai cái
+Thì coi như là
+Còn chóng hai đúng không
+Bạn có thể về
+Mình nhận tiếp
+Em mới hỏi chút
+Nếu mà
+Anh bảo là
+Tức là
+Đội nào
+Request trước
+Thì nhận được trước
+Đúng không ạ
+Thế thì
+Saver có trả về
+Tín hiệu gì
+Để biết là
+Cái package này là
+Mình không được phép nhận
+Để mà
+Có
+Thì bọn mình sẽ có
+Thì mình
+Mình không nhớ
+Thì mình nhớ là
+Trang cây team respond
+Trang cây team respond
+Là nó sẽ show luôn ra
+Là cái list package
+Là cái nào nó đã
+Thuộc về cái xe nào đó
+Nếu như nó đã
+Đã được
+Accrual buy rồi
+Mọi người phép gì
+Cái là
+Trong cái season
+Là cái đó đã được
+Accrual buy
+Bởi cái xe nào đó
+Thì thường là
+Nó sẽ có 2 cái
+Mã lỗi
+Một cái là mã lỗi
+Là mấy bạn request
+Nhận cái package đó
+Khi mà đứng
+Ở cái chỗ sau
+Nó không phải
+Ngay cái vị trí
+Mà nhận hàng
+Cái mã lỗi thứ 2
+Là đã có 1 người khác
+Nhận trước cái package đó rồi
+Tức là
+Gần package đấy
+Thì mới bắt đầu
+Request để nhận
+Package
+Đúng không ạ
+Bạn phải đi
+Cái điều kiện
+Để mà các bạn
+Trả về
+Cái negative response
+Đó là
+Cái cuộc package đó
+Cái package đó
+Nằm trên xe rồi
+Hay là nhận request rồi
+Cái negative response
+Như hồi nãy mình nói
+Là nếu mà
+Đối với cái trường hợp đầu
+Là có nghĩa là
+Bạn đang đứng
+Không có đúng cái vị trí
+Để mà nhận cái package đó
+Thì nó sẽ trả về
+Negative response
+Là
+Bạn đang đứng xa quá
+Không có đứng ngay cái thoa hàng
+Để mà nhận
+Cái gói hàng này
+Thì
+Trong cái trường hợp thứ 2
+Là đã có 1 loại
+Nó request nhận
+Cái package đó trước rồi
+Thì lúc này
+Server sẽ trả
+Như vậy
+Như vậy
+Thì mình thấy được
+Rằng là mình đã xử lý theo hưởng là
+Bên nào
+Gửi
+Request trước
+Thì là bên đó
+Kiểu giống như đang
+Reser
+Cho không phải là
+Cái package đó
+Nằm trên xe
+Nhưng mà
+Khi mà bạn nhận rồi
+Thì bạn không có trả
+Cái package đó
+Bạn chỉ có khi nào
+Bạn giao
+Cái package đó xong
+Thì nó mới mất khỏi
+Cái xe thôi
+Nếu vậy
+Thì những cái đuôi đó
+Nó có thể
+Mình làm 1 cái thuật toàn
+Để nó có thể
+Reser hết
+Tất cả những cái đó
+Thì bên server mình
+Sẽ xử lý như thế nào
+Maximum là 3 thôi mà
+À đúng rồi
+Mỗi xe chỉ được
+3 package thôi bà
+Nếu mà như vậy rồi
+Thì nếu mình
+Tỉnh toàn thuật toàn
+Để mình có thể
+Reser hết
+Mấy cái package
+Có cái value cao
+Thì sao
+Nó đến gần
+Nó mới reser
+Value bằng nhau hết mà
+Value bằng nhau
+Thì mình nghĩ
+Cái đó là mấy cái đó
+Là mấy cái chiến thuật thôi
+Chiến thuật của từng đội chơi
+Thôi có đội
+Mọi người
+Có nghĩ được
+Cái cách nào
+Thì cứ chơi thôi
+Ok
+Như vậy là
+Break through được đúng không
+Cứ khai thác
+Tất cả những cái lộ hỏng
+Cứ rule để có thể
+Sử lý thôi đúng không
+Dạ đúng rồi
+Đúng rồi
+Thì nếu mà
+Nó không phạm luật
+Thì mọi người cứ chơi thôi
+Ok
+Không phạm luật là tính như thế nào
+Luật ở đây là
+Chỉ như thế này thôi
+Tức là mình làm
+Mình làm được cái gì
+Thì mình làm được phép gì
+Hay như thế nào
+Thì giống như bạn
+Hồi nãy nói
+Thì chẳng hạn như bạn đó
+Dựt hết mấy cái package ngon
+Chẳng hạn
+Rồi giữ cho bạn đó
+Ghiêng thì kiểu như vậy
+Không giao luôn
+Giữ hết luôn cũng được
+Về cái việc
+Điều khiển
+Cái xe
+Em thấy trong này
+Là mình sẽ điều khiển
+Cái xe
+Có điều khiển được vận tốc không ạ
+Đối với cái dòng đầu này
+Là mọi người
+Chỉ cần
+Là mọi người chỉ có
+Submit cái lút
+Sau đó server sẽ tự handle hết
+Tốc độ nó sẽ như nhau
+Tốc độ nó sẽ cố định
+Và ban tổ chức
+Sẽ tự điều khiển
+Cái xe đi tới
+Cái địa điểm
+Submit luôn
+Tức là nếu mà
+Ví dụ như là
+Hai xe
+Ban đầu ở cùng một điểm xuất phát
+Sau đó hai đội
+Đều chọn
+Cùng một điểm đến
+Là một cái package chẳng hạn
+Thế thì
+Cùng
+Cùng rây lên cái
+Đưa lên cái
+Rout
+Rout đó lên server
+Server sẽ xử lý
+Cái đấy như nào
+Tức là hai xe sẽ đến
+Cái điểm đấy cùng một lúc
+Hay là như nào
+Đúng rồi bạn
+Đúng rồi
+Xong rồi
+Request
+Thì được
+Xong rồi mình lại tính
+Phải tính thời gian
+Để mà
+Khi mà xe
+Đến cái
+Tức là tính thời gian
+Delta
+Để mà cái xe đến được cái điểm đấy
+Thì bắt đầu
+Request
+Nhận cái package đúng không ạ
+Hay như nào
+Là sao
+Bạn đã nhắc lại được không
+Tức là
+Ví dụ như là
+Sẽ có
+Em đang chưa hiểu
+Ví dụ là
+Có cái thời gian
+Để mà đi từ cái điểm
+Xuất phát
+Cho đến cái điểm
+Nhận package hay không
+Server sẽ có tính toàn
+Cái thời gian đó không
+Hay là như nào
+Tại vì cái mình
+Submit chỉ là một cái
+Đường đi
+Như mình sẽ chọn
+Điểm nào để đến thôi đúng không
+Và đi theo con đường
+Như thế nào
+Thì nó sẽ có cái
+Thời gian để mà
+Di chuyển đúng không ạ
+Cái tốc độ
+Nó sẽ là cố định
+Ý là cái
+Ví dụ bạn
+Submit cái
+Quảng đường
+Nó càng xa
+Thì nó đi
+Nó tốn càng nhiều thời gian thôi
+Còn cái vận tốc
+Của chiếc xe là
+Nó sẽ cố định
+Trong toàn quảng đường
+Dạ đúng rồi
+Tại vì nếu mà
+Không xem xét
+Vấn đề thời gian
+Thì làm sao mà biết được là
+Xe của mình
+Đã đến cái điểm
+Nhận package hay chưa
+Anh hiểu cái câu hỏi
+Là như thế này nha
+Là
+Chắc coi thử là
+Khi nào cái xe
+Nó đã tới cái điểm rồi đúng không
+Thì
+Lúc nãy mình mới request
+Thì mình
+Thì request
+Đúng rồi
+Câu hỏi vài lít á
+Cái chỗ mà
+Chỗ player machine á
+Em thấy có
+Cái phần mà từ
+Game coordination server
+Nó xuống
+Dưới cái player machine
+Nó có cái
+Mà cái car stay đúng không
+Dạ
+À
+Thì cái chỗ đó là
+Request
+Mình sẽ biết được là
+Cái xe nó đang ở vị trí nào
+Để mình gửi
+Cái request tiếp theo á
+Tức là cái car stay đâu
+À
+Thì mình sẽ biết được là
+Cái car stay
+Mà nó
+Thỏa mãn
+Cái điều kiện
+Nhận package
+Thì là
+Mình request được
+À vâng
+Chính xác
+À
+Tức là cái flow
+Có nghĩa là
+Mọi người sẽ có là
+Một cái
+Một cái bộ
+Một cái list
+Của những cái package
+Public ngay từ đầu
+Cái
+Cái
+Cái cuộc chơi luôn
+Ok không
+Thì
+Ví dụ như là
+Mình có thể random
+Address bao nhiêu cũng được á
+Anh em mà muốn
+40 cũng được
+50 cũng được
+60 cũng được
+Nó chỉ là cái hàm
+Cái boot
+Cái argument vậy thôi
+Ok
+Thì sau đó
+Nó sẽ generate ra
+Một cái
+Một cái list
+Random
+Mà cái đó
+Mọi người có thể query
+Qua REST API được
+Ok không
+Thì trong cái bản đó
+Mọi người sẽ thấy được
+Thấy được là
+Cái package tên là gì
+Giá trị tiền của nó
+Khi mà deliver là bao nhiêu
+Tọa độ
+Của cái
+Điểm xuất phát
+Của package đó
+Và tọa độ
+Của cái điểm
+Mà mình phải deliver
+Được chưa
+Dựa trên cái input đó
+Thì mọi người
+Cái thuật toán của mọi người
+Sẽ tính toán
+Coi thử là
+Cái route nào là hợp lý
+Hoặc là pick cái package nào là nó hợp lý
+Ok
+Sau đó
+Mình sẽ
+Submit cái route
+Để cho cái xe
+Nó chạy
+Từ cái điểm hiện tại
+Của cái xe
+Cho tới cái chỗ
+Mà package nó đang
+Ở chỗ đó
+Sau đó gửi một cái request
+Là tôi muốn pick
+Cái package này
+Được chưa
+Cái request đó
+Sẽ có là cái tên
+Của package
+Và cái xe của tôi
+Là như thế nào
+Bên cái server
+Nó sẽ check
+Coi thử là cái xe
+Đang tới cái package đó chưa
+Tới cái chỗ đó chưa
+Trong phạm vi
+Tolerance là bao nhiêu đó
+Rồi sau đó
+Sẽ update
+Cái database là
+Ok package này
+Đã được cái xe
+Của anh A này lấy rồi
+Ok
+Anh A
+Anh A hiểu concept không
+Alo
+Cho em hỏi thêm
+Câu này các anh
+Là trong
+Cái câu trước
+Là clear rồi đúng không
+Dạ vâng
+Vâng em clear rồi
+Ok
+Rồi bạn hỏi đi bạn ơi
+Dạ
+Là trong cái trường hợp
+Là giả sử là
+Hai đội mình xài
+Cùng một cái thuật toán đi
+Thì lúc mà
+Bắt đầu trò chơi
+Thì hai đội nó cùng
+Submit
+Cùng một cái con đường
+Tới cùng một cái package luôn
+Thì cái package
+Nó sẽ thuộc
+Về đội nào anh
+Cái request
+Nào nó tới server trước
+Thì cái đội đó sẽ lấy
+Cái này nó hơi tâm linh
+Chút xíu nha
+Cái này là
+Hên xui đó anh
+Chứ cũng không có
+Đúng rồi
+Hiện tại là
+Là mình
+Là mình có cái chỗ
+Hên xui là chỗ đó
+Cho nên là
+Anh em có góp ý gì
+Để sửa cái luật chơi
+Vô đó
+Thì hoàn toàn open nha
+Nhưng mà giả sử như là
+Sẽ có một lúc
+Server nó cũng chỉ tính được đến
+Một phần bao nhiêu
+Một phần mấy ngàn
+Của một giây chẳng hạn đi
+Thì giả sử như là
+Nó
+Đó
+Đó
+Đó
+Đó
+Đó
+Đó
+Đó
+Đó
+Đó
+Đó
+Đó
+Đó
+Đó
+Đó
+Đó
+Đó
+Đó
+Đó
+Đó
+Đó
+Đó
+Đó
+Đó
+Đó
+Đó
+Đó
+Đó
+Đó
+Đó
+Đó
+Đó
+Đó
+Đó
+Đó
+Đó
+Đó
+Đó
+Đó
+cái đen ta là như thế nào ta tức là bạn vẫn phát hiện được rằng là cái hai cái request một cái nào
+trước một cái năm sau đúng không Nhưng mà hoàn toàn có thể có những cái data racing đến mức là thời
+gian của hai cái đấy nó nó bằng với nhau ấy nó nó không thể bằng như nhau được các bạn không có
+được một cái một cái thuyết để nó nó nhận thôi thì cái chỗ mà update các bác kịch đó là chỉ có
+một phép duy nhất thôi thì cho mình hỏi hỏi hai câu nữa đấy là giữa các xe này của cô lên với
+nhau có đục được nhau trong vòng loại là không nha trong vòng loại là anh em cứ ban nhau thoải mái
+cho hỏi là nếu mà lòng vòng loại mà mình rồi rồi là bạn chạy xuyên qua nhau được thì tại sao mình
+không làm cái các cách kịch là riêng lẽ cho từng đội luôn là giống như là mỗi đội có thể làm được
+rồi chạy cái map riêng để mà không có bị vấn đề đó còn nếu mà trong cái vòng loại trực tiếp mà
+thi thiệt thì có thể xài cái đó được em nói lại cái cái ID đó anh chưa hiểu giờ là hết dụng trong
+vòng loại là những cái xe mình có thể ban nhau là mình chạy xuyên qua nhau được không anh thì tại
+sao là mỗi mỗi cái một mỗi đội mà họ không chạy trên cái map riêng thì cái map đó là có các bác
+kịch đó thí dụ hai đội cùng request một cái đường cái map đó thì họ vẫn tới được vẫn lấy được luôn
+thì mình chỉ tính cái kết quả cuối cùng rồi kìa nó dễ hơn lòng bài ký nếu mà trong cái vòng
+loại trực tiếp mà mình thi thiệt đó thì đó mình có tính là ai request trước rồi ai tới trước thì
+nó sẽ hãy không có bị cái vấn đề đó anh anh hiểu anh hiểu idea cái cái cái đó cũng là một cái
+ấp dụng lúc mà design cái game á nhưng mà cuối cùng mọi người thấy là nếu như mà cho thi trên
+cùng một các bản đồ á cái độ mà cần biết với nhau nó vui thôi á Ok không Ờ thì cái này ra ra cái cái cái cái cái I
+hiện tại là nó như vậy
+cho mình hỏi câu hỏi thứ 2 của mình
+nếu như mà lúc mà
+xe mà rẽ hay là xe
+quay đầu các thứ ấy thì tốc độ của xe
+là static à hay là nó có
+nó có bị biển thiên không
+tức là nó có bị giảm tốc độ
+khi mà
+rẽ hay là như nào
+mỗi lần rẽ ra
+nó sẽ phải dừng lại rồi sau đó nó mới rẽ được
+dừng lại thì
+khi mà nó dừng lại thì là nó
+nó có
+giảm tốc không hay là nó vừng
+một phút dừng rồi sau đó nó đi luôn
+cái ball này rất là hợp lý luôn á
+tức là nếu như mà cái ý ý
+của các bạn này là
+nếu như mà một cái đội chơi nào đó đúng không
+mà tìm ra một cái route mà
+nó sẽ có nhiều ngã rẽ hơn đúng không
+mà cái chỗ ngã rẽ đó mà nó đi chậm hơn
+thì có khả năng đội đó không
+có bằng cái đội mà đi thẳng
+đúng không
+thì cái này ban tổ chức
+sẽ sửa lại cái chỗ mà cái hiện tại
+trong cái cái design là cái chỗ mà
+chỗ mà nó quẹo là nó sẽ fit luôn á
+chưa chưa chưa chưa chưa nó dừng lại nó
+qua luôn tức là nó dừng nó đi qua luôn
+và tốc độ nó không đổi gì
+đúng rồi cho nên là sẽ sửa lại chỗ này
+để cho cái lục chơi nó hợp lý hơn
+ok cái này em ghi vô trong cái lục chơi
+cái này hợp lý
+cái bài toán là nó chỉ liên quan đến phần phong cách thôi
+nó không liên quan đến cái số lượng ngã rẽ nhiều hết đúng không
+hiện tại là nó không liên quan
+nhưng mà cái input là hay đó bạn
+để ban tổ chức xin phép update
+cái lục chơi chỗ này nha
+là thêm cái chỗ ngã rẽ nữa
+nó sẽ chậm lại
+chậm lại là chậm lại bao nhiêu nhỉ
+nó sẽ chậm lại constant cho tất cả mọi người nha
+nhưng mà cái idea ở đây là
+nó sẽ là
+nó sẽ chậm lại constant cho tất cả mọi người nha
+nếu như một con đường á
+mà nó có nhiều ngã rẽ hơn á
+thì nó sẽ tốn thời gian nhiều hơn
+không không không
+không mình chỉ đang hỏi là
+cái chậm lại đấy nó sẽ chậm lại như thế nào
+tức là giả sử như là mình phải biết được rằng là
+bình thường mình đi thẳng 1 mét
+thì nó đi mất 1 giây
+nhưng mà bây giờ rẽ mà đi 1 mét
+thì mình mất 5 giây chẳng hạn
+thì nhìn nó như thế nào
+thì chắc là khi nào bạn có
+cái detail đó vào trong cái lục chơi
+để gửi ra cho mọi người
+ok
+cho mình hỏi cái là
+nó chỉ liên quan đến cái khoảng cách thôi
+như sao thì liên quan đến thời gian đó nhỉ
+tức là cái xe đấy
+dù có đi ngoằn ngoèo các thứ
+nhưng mà cái đường ngoằn ngoèo
+nó lại ngắn hơn cái đường thẳng
+thì nó vẫn thắng
+đúng không
+đâu cần liên quan đến thời gian đúng không
+thì nó có dừng lại hay không
+quan trọng là
+quan trọng là thời gian nó liên quan đến lúc mà
+mình đi thẳng
+mình lấy được package hay không
+bởi vì là nếu như mình đi lấy package mà
+mình mà chậm hơn đối thủ
+thì là mình không lấy được thôi
+đúng rồi
+tức là cái mình phải đến trước
+đến cái package đấy trước
+thì cái package đấy mới thuộc về mình đúng không
+đúng rồi
+hồi nãy có 1 bạn hỏi là
+trong lúc mà đi lấy cái package đúng không
+thì mình có
+trên cái xe mình chở được tối đa là 3 package đi
+đúng không?
+thì mình deliver 1 cái package rồi
+trong cái lúc mà mình đang deliver cái package thứ 2
+cái tài hình cho anh em thôi nha
+mà mình lỡ mình đi ngang qua cái trạm giữ hàng đúng không
+kho hàng đúng không
+mình lấy thêm cái nữa
+ok không
+thì cái đó cũng là 1 cái trick mà
+anh em có thể lấy trước được cái package mà nó
+nó ngon lành hơn
+thay vì là phải chờ deliver hết 3 cái package đó
+thì quay lại cái trạm hàng mấy cái
+mấy cái vẹn lưu tiếp theo là anh kia lấy mất tiêu rồi
+chết lộ đệ rồi
+rồi nha
+nhưng mà mình lấy là mình lấy ở cái cái central hub
+hay là mình phải đi ngang qua cái bất kỳ
+mình lấy trong central hub
+mình lấy trong central hub
+cho em hỏi thêm là cái phần mà API documentation á
+mình có tạo 1 cái swagger cho nó không
+hoặc là cái gì để mình có thể xem cho nó dễ không
+à sẽ gửi cái API document ra cho mọi người luôn nha
+nó sẽ có cái format của JSON và các kiểu
+nếu như mà mình muốn truy xuất gọi gì đó
+3 lỗi xin lỗi bạn có 1 bạn offline hỏi cái rồi xong rồi đấy bạn nha
+ok
+1 2 3
+mình deliver random luôn
+mình lấy được 3 cục rồi đúng không
+cái mình thấy cái chỗ cái mình lấy xong rồi
+cái mình thấy cái cục thứ 3 nó gần nhất
+mình chạy qua đó mình deliver
+nó không có răng buộc đó
+rồi bạn bạn online ơi
+cho mình hỏi là tức là mình có thể truy xuất API để biết bất kỳ khi nào
+để biết bất kỳ khi nào
+cái state của những cái package và state của đối thủ ở đâu đúng không
+đúng rồi đúng rồi
+bất kỳ lúc nào và ngay cả biết vị trí của xe của đội khác
+đúng rồi
+ok
+hiện tại mình không có răng buộc gì hết đâu ở trong vòng loại
+tất cả mọi thứ đều public nha mọi người sẽ thấy được hết
+rồi interesting discussion
+cho mình hỏi thêm là cái cái chỗ player machine ấy
+cho mình hỏi thêm là cái cái chỗ player machine ấy
+nó gửi cái card control signal là cái signal gì nhỉ
+nó gửi cái card control signal là cái signal gì nhỉ
+như bạn thấy ở đây là bọn mình đang tô màu xám á
+như bạn thấy ở đây là bọn mình đang tô màu xám á
+thì có nghĩa là ở cái vòng elimination này
+mấy bạn không cần quan tâm á
+cái này chỉ khi mà vô màu xao mới phải gửi thôi
+cái này chỉ khi mà vô màu xao mới phải gửi thôi
+ok ok ok
+em hỏi chút ạ
+em hỏi chút ạ
+xin phép xíu nha
+offline cũng có
+mình get 1 list
+mình get 1 list
+mình đã xuất phát rồi á
+mình get 1 list được
+lấy hết cái stay của market nó đang có
+lấy hết cái stay của market nó đang có
+cái lúc mình get mình chạy xe dần lại
+nếu mà chạy vừa chạy vừa get
+cứ gali liên tục liên tục
+giống như mình đang chạy xe anh bấm đi hỏi
+mình chạy liên tục
+chạy được chạy được
+mình cho delay chỗ đó cho nó hay
+chế độ cho nó get liên tục liên tục
+nó dc trước
+chưa làm cái đó Nhưng mà có một cái là sẽ khống chế ở trên ở trên cái xe vợ là sẽ sẽ
+hạn chế lại cái xe vợ nó sẽ handle theo kiểu là bạn không phải là cái một mươi giây làm lần giống
+như đi đó vậy thì ai làm cho nói đúng không thì sẽ hạn chế lại cái client đó trong cái khoảng
+thời gian nó chỉ được như vậy thôi à ai đi này cho mày ok à Vậy là có giới hạn số lần request
+trong một thời gian nữa đúng rồi đúng rồi không phải là được phép liên tục là mỗi mươi giây là
+lần mà mình cách được một lần thôi nhé thì cái số số đấy là sẽ đưa sau hay là sẽ không ta báo cho
+mọi người không là sao chơi cái chỗ mà cái cái phòng mát của cái map là nó gửi về cho mình là
+theo phạt chứ nào à Câu hỏi hay này hồi nãy giờ chưa hỏi trước cái phòng mát nó sẽ là Geo chế
+sân em em có các bạn ở đây nó anh phải cấp đó không phải được à à
+cái cái cái cái góc mình phải nè Rồi ok Ở thì bao giờ cũng ngồi tìm hiểu trên Google với lại
+co-pilot các kiểu có thể phần mát nào dễ chơi nhất ok không Thì cuối cùng là đi ra là sẽ tất cả những
+cái cái mát hiện tại mọi người sẽ nó sẽ tả về cho mọi người dưới dạng Jason mà này là Geo chơi xanh
+với các phần mát của chơi trên Ok thì ở trong cái cái mát mình sẽ có chỉ có hai loại thôi một loại là
+điểm và một loại là cái cái câu đường game livestream chắc cái điểm cũng không cần luôn đó đúng
+không Chỉ cần cái livestream là đủ rồi thì ai đi đây là anh em lên Google đúng không Anh Google xong
+rồi cái đi tìm đường gì nữa đi đường với vợ đi tìm đường từ I Thao qua bên phía Office sao chẳng hạn
+đi đúng không thì bấm tìm đường phát cái nó ra cái
+nó ra cái nó vẽ lên cái mát lại có cái đường màu xanh từ đây tới đó đúng không Thì cái đó là một
+cái overlay lên trên cái Google mát hiện tại ok không Thì cái đó sẽ có cái cái cái thông tin ở trên
+đó thì ở trong cái cái cái trò chơi này á thì mình sẽ dùng cái phần mát là Geo chơi xanh ok không
+Thì trong cái Geo chơi xanh đó thì cái line chính là cái đường cái bond chính là cái điểm chỉ đơn
+giản là vậy thôi Ok thì khi mà mình request API lên trên server ví dụ như là server
+có liệu speed map chẳng hạn đi thì cái geo.json này sẽ tả về cho mọi người rồi Chắc và nó sẽ
+tả về trong một cái câm voice map luôn ok okay mát mà mình thi với nhau thì anh em sẽ lấy được tất cả
+những cái đường ở trong cái map đó là như thế nào Điểm bắt đầu điểm kết thúc được tiết kiệm Ok không
+bạn ơi
+collections mà
+khi trả về
+tin lắm
+pin
+tin lắm
+trả về sẽ là có tọa độ và status của cái package
+nó cũng sẽ là json luôn nó sẽ có cái thông tin là mấy cái key là xe đồ các kiểu
+anh em sẽ nhận được hết mấy cái description đó nha
+ok không thì mình chỉ tất cả những cái tương tác của server nó qua json hết
+ok cho mình hỏi tí cái chỗ mà mình request mà lấy cái package
+thì hồi nãy là có nói cái gì mà mình kiểu như là mình xí chỗ
+hay là như thế nào tức là khi mà mình gửi request lấy cái package
+thì server nó sẽ cho hay không cho thôi hay là có được xí chỗ là như thế nào không
+hiện tại cái server đang là cho hay không cho
+bạn mà request nhận rồi là nó nhận luôn á
+tới khi nào mà bạn giao thì nó mới mắc ra
+còn không được thì người khác nếu mà hợp lệ thì sẽ được lấy đúng không
+đúng rồi
+chứ nó không ảnh hưởng đến người khác
+ok
+tức là ai mà lấy được package rồi là giữ luôn nha
+chứ người khác nó không dành của mình được nha
+không có cái cơ chế là kia đang chạy mình nhảy là mình lấy nó
+ok không có cơ chế đó
+rồi nhưng mà lấy không được thì người khác lấy
+chứ không có một cái cơ chế đó
+đúng rồi đúng rồi
+cho em hỏi là vậy trong quá trình mình chơi như vậy mình bếp là hầu hết
+xin lỗi offline hỏi một cái nha
+xin lỗi offline hỏi một cái nha
+xin lỗi
+xin lỗi
+xin lỗi
+xin lỗi
+xin lỗi
+mình lấy cái kiện hàng xong rồi mình phải đi giao nữa
+đúng không
+cái kiện hàng
+gọi là cái data structure của cái kiện hàng đó sẽ bao gồm có là
+cái kiện hàng đó là bao nhiêu tiền
+khi mà deliver rồi sẽ được bao nhiêu tiền
+cái thứ hai nữa là
+giao tới đâu
+ok không
+thì mọi người sẽ lấy được cái kiện hàng đó là cái điểm xuất phát là đúng rồi đúng không
+nhưng mà mình sẽ
+từ cái chỗ xuất phát đó đúng không
+thì mình bắt đầu mình sẽ chạy cái thuật toán là tìm đường
+giao tới chỗ đó
+ok
+thì mình sẽ bếp ngược lại
+đúng không
+mọi người đã like rồi
+hồi nãy có bạn nào hỏi đúng không
+dạ dạ em hỏi đây anh
+à
+em muốn hỏi là vậy
+vậy cả trong cái quá trình mình chạy bằng command like về giao hàng hay là lấy packet
+thì đều thông qua command like có hết chứ sẽ không có thấy được trên map đúng không anh
+có map để hiển thị không
+có map để hiển thị
+có map để hiển thị
+và map để hiển thị hết tất cả các xe trên cùng map luôn hả
+vị trí của các vehicle
+đúng rồi bà
+bọn mình có cái UI chắc chút xíu hồi xong rồi
+bọn mình mở lên cho mọi người coi chung
+cái đó quan trọng á
+ok ok
+anh em thấy hết nha
+anh em thấy hết nhưng mà không làm gì được nhau hết
+tức là thấy cả tọa độ của xe đối thủ hả
+đúng rồi mình request thấy được luôn
+là chiếu lên tivi lớn luôn hả anh
+đúng rồi đúng rồi
+và thậm chí là mình có thể query được là đối thủ đang ở đâu luôn
+cuộc chơi có thời gian không anh
+ví dụ tổng thời gian của tất cả các đội hả
+1 lần là 2 đội thi với nhau là tối đa 3 phút á
+à ok
+thêm ai giao được nhiều bucket chưa
+nhiều nhất hơn hả
+cái này là tầm vài đội thi chung 1 lần chứ hả
+đội mình lọ thì mình phải lấy bao nhiêu đội rồi lọ bao nhiêu đội như nào
+2 đội 1 lần à
+2 đội 1 lần thì cứ thua là out luôn hả
+đúng
+đúng rồi bạn
+hiện tại đang là vậy
+2 đội thì lợi thắng cho được vô trung tích
+à không không đấu bản tiếp chị
+mình đấu tới lúc nào mình còn lại 4 đến 6 đội thôi
+ok không
+hả
+giả sử 2 đội đều không lấy được bucket nào hoặc là không làm được nhiệm vụ nào hết thì như thế nào
+nhưng mà nó có nhúc nhích
+có nhúc nhích hả
+có tính quản lý là cả 2
+trường hợp này chưa nghĩ tới luôn
+không nhưng mà anh em cái cái cái code của của của của mấy bạn mà xem ra cho mọi người á để mà refer á là nó somehow nó chạy rồi đó
+ít nhất phải lấy được gá chứ còn sửa mà tầm bậy quá thì nó không chạy thôi
+ví ví ví dụ như một
+một map tầm 3 phút đúng không thì
+tức là lúc start lúc nào sẽ start
+là mình sẽ trigger manual hả
+ban tổ chức trigger
+à thì start thì mình mới gửi bucket để để đi lấy được đúng không
+đúng rồi lúc mình start lên cái là mình bắt đầu chạy thôi
+rồi rồi cảm ơn
+rồi ok cảm ơn mọi người nha
+nhưng mà giờ thời gian mình hết rồi
+cho nên là mọi người nếu như mà có câu hỏi gì á thì mọi người cứ chat vào trong cái nhóm chat đó nha
+coi như là bây giờ mình sẽ pin cái nhóm chat đó lại để mình có muốn hỏi gì cái chat này đó hỏi
+ok
+thì chắc là Huy sẽ show thêm cái cái cái cái cái view sơ sơ cho mọi người coi ha
+thì sẽ cái cách mà mình bố trí như thế nào á để mọi người tưởng tượng ok không
+rồi cái khi nào mà cái cái UI này kia nó finalize á là sẽ gửi cho mọi người
+trước cái ngày thi đấu với nhau
+ok
+vậy chắc anh bấm xem nè anh nha
+cái này máy của thầm
+à em bấm đấy em bấm
+còn còn cái gì phía sau nè hết rồi đúng không
+hết rồi
+ừ
+ok
+chắc mở vào bên kia
+cái này chưa
+rồi
+ok
+mọi người còn thấy màn hình mình không à
+thấy
+xem
+thấy mặt anh nữa
+rồi thấy rồi
+thấm ốp rồi
+có gì là anh phải quăng nó qua đây hả
+hả
+à
+à
+thế là đâu vậy
+ok
+ok
+thì ở đây mình sẽ có một cái file là giả lập cái cái simulation
+server
+kiếm một cái file là gọi chơi ở đây
+thì sau khi chạy thì mọi người nó sẽ ra là
+nó ra error
+bản minh còn đang làm
+đang đang chỉnh chút xíu
+nhưng mà cơ bản là cái UI nó sẽ như này á
+ừ
+thì ví dụ có có khi mà mấy bạn test trên server á
+thì là nó sẽ chỉ có hai share của mấy bạn thôi
+ừ
+nếu mà có thêm đội chơi nữa thì nó sẽ là có thêm hai share đây nữa
+ừ
+à
+hai con con boss á
+nếu mà mọi người chạy thêm cái server boss nữa thì nó sẽ ra tổng cộng là bốn chiếc
+và mọi người sẽ chạy đấu với nhau
+ờ
+thì ở đây nó cũng sẽ hiển thị là
+team đội của mấy bạn là gì
+đã deliver được bao nhiêu cái package
+cái quãng đường đã đi và tốn bao nhiêu lượng nhiên liệu rồi
+thì mọi thứ nó đều hiển thị ở đây hết
+bạn ơi
+giờ cho mình hỏi với
+ờ
+là mình thấy bản đồ thi đấu mình sẽ như thế này ấy hả
+hay là sao đây không phải bản đồ thi đấu cuối cùng
+ờ của dòng này là bản đồ nó dạng như vậy luôn hả bạn
+nhưng mà mình chỉ thấy có mỗi đường là live stream mà nó chỉ có điểm đầu điểm cuối thôi
+thì thì mấy cái đường cong này thì giải quyết nào
+nó sẽ là tập hợp của nhiều cái live stream nhỏ á
+ờ
+ờ
+mình mình mình hỏi một chút nhá
+mình mình hỏi một chút là cái ví dụ
+mình thấy có một số đường cong này nó nối giữa hai điểm
+và hai điểm đấy nó cũng sẽ nối bằng hai đường thẳng khác ấy
+nếu thế thì tổng cái khoảng cách của cái đường cong này
+thì so với cả hai cái đường thẳng đấy thì nó như nào nhỉ
+cái cong thì chặt ý bạn là cái khúc này nhớ ta
+ờ đúng đúng đúng đúng
+ví ví dụ thế với cả một đoạn là như kiểu góc vuông ấy
+mình thấy có một đường cong cũng nối giữa hai góc vuông ở dưới góc dưới bên phải màn hình ấy
+cái cái cách tính như thế nào á sẽ gửi ra cho mọi người nha
+cái đường cong này anh em đừng có quan tâm
+tại vì nó sẽ bỏ hết á
+nó phải là cái đường xiên nó mới nó mới đảm bảo được lợi công bằng ấy
+ok không
+tại vì cái đường cong nó sẽ là phải tập hợp của nhiều điểm lại á
+thì cuối cùng nối lại với nhau thì cái đường cong nào đường cong ấy nó sẽ không có được giống như bình thường
+ok không
+nhưng mà cái cái lợi thế ở đây là nếu như mà mọi người query được là cái bản đồ rồi á
+thì nó sẽ có tọa độ của từng điểm một
+cho nên nếu như mà mà mà mà nhận được cái đó rồi á
+thì anh em bất chấp là đường cong hay là đường thẳng hay là đường xiên gì nữa
+thì mọi người vẫn có thể tính được là cái cái điểm tức là cái cái quãng đường mà phải đi tới destination là bao nhiêu
+dựa trên cái cái series của những cái điểm đó cái livestream đó mọi người sẽ tính là được khoảng cách
+ok
+thì nếu như mà nhìn không nhìn lên trên cái hình mình không còn view á
+thì mình sẽ tưởng tượng được là mình nhìn mình sẽ lấy được một cái series một cái array của nhiều điểm tọa độ
+ok không
+thì cái thuật toán tiền đường của mình chứ đơn giản là trên những cái điểm đó tôi đi cái điểm nào thì nó hợp lý
+ok
+ờ anh ơi em có câu hỏi
+ờ về cái điểm nhận hàng với điểm trả hàng á anh
+thì là nó là một cái điểm hay là nó là một cái khu vực có bán kính anh
+à câu hỏi hay nha
+cái điểm mà trả hàng với lại với lại nhận hàng á nó có thôi nên là nó có cái
+nó có cái có xài số đúng không
+có có có bạn bạn chỉ cần vô đúng vô một cái cái khoảng cách gần với cái điểm đó thôi là đã có thể nhận ngàn trả hàng
+này là nó thêm một trích nữa rồi
+rồi
+thế vậy
+dạ
+gì đấy vậy chị em hỏi cái là ví dụ như trong cái xe hình á em có thấy là nó một cái có một cái đoạn đường cong nó khá là sát với lại cái đường thẳng đối diện á thì có khi nào có điểm trả hàng nó cái bán kính trả hàng nó lẹm qua bên kia không
+cái bán kính trả hàng nó lẹm qua bên kia không
+cái bán kính trả hàng mình đây bọn mình đang đẻ nhỏ á
+cái bán kính trả hàng mình đây bọn mình đang đẻ nhỏ á
+à
+với lại cái cái chỗ trả hàng nó random á nên cũng bọn mình cũng không có control
+không em em em tưởng tượng đi sơn là cái cái bán kính trả hàng nó chỉ trong khoảng cái size của cái đường đó thôi chứ không có làm ra rộng là bao phủ nguyên cái ngã tư đâu
+ok không
+cho nên là cái chuyện mà nó cong qua nó không sẽ nó sẽ không có lẹm được đâu sơn phải tính toán được chính xác cái chỗ đó
+online có câu hỏi sát chưa
+online còn nữa hả
+online còn nữa hả
+cái cái điểm start á là nó cố định đúng không
+cái đó
+cái điểm trả hàng thì nó mới random
+cái đó
+à hỏi gì bạn ơi
+cái điểm mà start á là mình random luôn hay là cố định
+cái điểm start lúc nãy mấy bạn có giải thích là đầu tiên là nó sẽ fit á trong cái vòng loại nó sẽ fit
+à
+à
+à
+bây giờ mình hết giờ
+cho nên là những cái câu hỏi online
+thì ban tổ chức sẽ cố gắng
+tranh thủ trả lời cho mọi người
+nhưng mà hôm nay là coi như là
+cơ bản là anh em nắm cái thông tin
+cái cách chơi nó như thế nào
+những cái challenge về mặt là technical
+với lại những cái thứ gì mà
+về mặt là cái vấn đề trong cái luật chơi
+là cái này rất là open cho anh em
+mình tạo ra cái môi trường để mình chơi với nhau
+anh em bắt lửa bằng tổ chức thoải mái
+ok không?
+này tổ chức 3 năm rồi cho nên nó không phải vấn đề lớn lắm
+ok?
+thì anh em thấy cái chỗ nào mà cái lỗ hỏng
+trong cái chỗ mà cái luật chơi
+nó có khả năng nó làm cho mình
+bị mất lợi thế so với đối thủ
+hoặc là mình có lợi thế so với đối thủ
+thì đừng nói ra
+nhưng mà mình mất lợi thế so với đối thủ
+thì anh em nói ra
+để ban tổ chức hoàn toàn mình từ đây tới lúc
+cái ngày mà mình chơi còn loại
+mình hoàn toàn có thể add check lại chút xíu
+trừ trường hợp là phải thay đổi lại
+hết toàn của cái hệ thống
+playground mà ban tổ chức đã dàn dần
+suốt 4 tháng qua
+thì nó không thay đổi được
+nhưng mà cái chỗ nào mà nó quá sức là impact
+tới cái chuyện là
+cái kết phê này của cái cuộc chơi
+thì mình hoàn toàn có thể sử dụng với nhau được
+ok?
+thêm một cái nữa là ban tổ chức cũng là
+giống như mọi người thôi
+cho nên là không hẳn là sẽ giỏi hơn mọi người đâu
+cho nên anh cứ góp ý
+thì nếu như mà trong quá trình
+trong cái script mà gửi ra
+nó có bức gì
+góp ý nha
+góp ý nha mọi người
+đừng chửi ban tổ chức
+ok?
+ban tổ chức sẽ sửa cho mọi người chơi
+ok?
+rồi thì tự nhiên là như vậy
+thông tin cuối cùng
+nói ra cho anh em biết
+là vòng chung kết
+vòng chung kết
+thì mình sẽ tổ chức vào ngày 19
+thì ngày 19 đó
+thì 19 tháng 12
+thì ngay trước Giáng sinh
+thì mình sẽ dùng cái xe này
+cái xe này sẽ được custom
+theo hướng là một con tuần lập
+mọi người thấy có mũi chưa?
+cái sừng chưa design xong
+ok không?
+thì mình sẽ làm giống như
+Santa Claus đi giao hàng vậy đó
+ok?
+và giải thưởng
+sau khi mà mọi người vô
+trong vòng chung kết
+mà đạt giải thưởng
+thì giải nhất sẽ là
+một đội 10 triệu
+ok chưa?
+đó
+thì thông tin sau bộ là vậy
+để cho anh em có chút động linh
+vòng
+vòng loại
+thì mình sẽ giải thưởng
+ok?
+nhưng mà
+nhưng mà
+cái idea ở đây là
+cái khối lượng
+thứ mà anh em
+sẽ học được
+trong cái
+cái cuộc chơi này
+nó khá là nhiều nha mọi người
+ok?
+đặc biệt là
+mấy anh em
+mà làm MPEG
+sẽ học được rất nhiều
+về diện là cái connectivity
+đồ các kiểu
+còn ai mà đang thăm
+đang làm IT
+sẽ hiểu được là
+ở dưới MPEG
+người ta đang điều kiện như thế nào
+trong cái xe
+nếu như mà ai vào
+trong vòng chung kết
+thì cái xe này
+cũng sẽ có code Python
+micro Python trong đó
+cho nên anh em
+không cần phải ngại
+là phải tìm hiểu
+về si cái gì hết
+cho nên là bạn nào
+đang làm IT
+kiểu đừng sợ
+ở trong này
+là ban tổ chức đã code
+rất là stable rồi
+ok không?
+cái này là
+chỉ là sử dụng
+gửi comment xuống
+là nó chạy thôi
+ok không?
+quan trọng cái comment gì
+cho nó hợp lý
+ok
+được chưa?
+rồi cảm ơn mọi người
+thì anh em
+tiếp tục trao đổi
+đến kia nha

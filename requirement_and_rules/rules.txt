@@ -1,0 +1,78 @@
+What:
+Build the fastest, smartest route & energy optimization algorithm. Compete under pressure to prove your fleet is the smartest.
+
+#############################################################################################################################
+
+Rule:
+"1. Initial Deployment
+- Start with 2 delivery trucks at the hub with a unique ID. 
+- Each trucks can pick up max 3 packages 
+
+2. Delivery Requests
+- 40 packages will generated randomly.
+- Each includes pickup & drop-off locations and a monetary value.
+
+3. Strategic Assignment
+- Choose which packages to accept.
+- Assign to one of your trucks.
+
+4. Optimization & Execution
+- The team calculates optimal routes based on distance.
+- Routes are sent to the server for execution.
+
+5. Live Monitoring
+- View real-time truck locations, statuses (idle, en route, delivering), remaining time, and delivery progress.
+
+6. Scoring System
+- Deliver the most packages as you can
+- Earn money for each successful delivery.
+- Winner: Most packages successfully delivered.
+- Tie-breaker: Team with the highest total revenue.
+
+#############################################################################################################################
+
+Detail:
+A reference source code will be provided with basic functionalities.
+Each team have 1 day to develops follow the requirement and starter kit provide organizer.
+Test your code on local Server from stater kit
+
+1. Starter Kit & Reference Code
+Each team will receive a starter kit containing:
+- Basic functionalities implemented in the reference source code and localization server for you to try algorithm
+- Documentation and API details for integration.
+- Teams must build upon this foundation to implement the required features.
+
+2. Development Time
+- You have 1 day (24 hours) to complete your solution.
+- All development must be done within the allocated time frame.
+
+3. Testing
+ - Try algorithm on localization server on your PC
+
+4. Competition
+
+
+#############################################################################################################################
+
+Procedure:
+"HACKING:
+S1: Get reference source code and localization server from starter kit.
+S2: Read, understand the code and the develop required functionalities.
+S3: Develop your route
+S3.1 Get information from server by calling provided API(pickup & drop-off locations and a monetary value, your start positions)
+S3.2: 
+- Making Decision: Choose the most efficency delivery mission for 2 trucks (AI might be applied)
+- Shortest Route: Base on the chosen missions, find the most optimized route to delivery as many as posible packaged in 3 mins 
+     => submit the route to Sever by calling provided API to perform the Delivery
+S4: Running your code on localization server 
+S5. Fix/optimize your code
+S6. back to S3
+
+COMPETITION:
+S1: Try connect competition server.
+S2: Register, wait for your turn
+S3: Wait to the starting signal from organization 
+S4: 
+- Earn money for each successful delivery.
+- Winner: Team with the highest total revenue.
+- Tie-breaker: Most packages successfully delivered"
